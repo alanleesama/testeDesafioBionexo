@@ -1,0 +1,4 @@
+id,name,address,city,phone,lat,long,size,adaptation_for_seniors,medical_equipment,medicine
+1,Hospital 1,Rua Vergueiro, 122,São Paulo,1134459002,-23576035,-46641574,3,3,2,3
+2,Hospital 2,Av. Paulista, 11,São Paulo,1123334789,-23562475,-46655638,1,2,3,3
+,,,,,,,,,,,,
